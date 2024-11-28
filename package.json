@@ -1,0 +1,16 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-hello-world"
+  },
+  "author": "\"Erika Cetera\"",
+  "license": "ISC",
+  "description": ""
+}
